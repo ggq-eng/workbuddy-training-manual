@@ -1,0 +1,3 @@
+# workbuddy-training-manual
+
+Bootstrap.
